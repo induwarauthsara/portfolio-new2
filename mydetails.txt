@@ -1,0 +1,237 @@
+# Induwara Uthsara
+
+**Full-Stack Web Developer | Information Systems Undergraduate | Microsoft Learn Student Ambassador (Beta)**
+
+---
+
+## 👋 About Me
+
+I am **Induwara Uthsara**, a passionate **Full-Stack Web Developer** and a **first-year Information Systems undergraduate** at the **University of Colombo School of Computing (UCSC)**. I enjoy building real-world, production-ready web applications that solve practical problems. Alongside academics, I actively contribute to the student tech community in Sri Lanka through volunteering, content creation, and technical mentorship.
+
+I have hands-on experience developing **ERP systems, healthcare platforms, booking systems, ticketing solutions, and AI-integrated web applications**. I strongly believe in learning by building, sharing knowledge, and using technology to make everyday processes smarter and more efficient.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Information Systems**
+*University of Colombo School of Computing (UCSC)*
+**Status:** Undergraduate (1st Year)
+
+---
+
+## 💼 Professional Roles & Activities
+
+* **Full-Stack Web Developer** – Freelance & Project-Based
+* **Founder** – *Cyex Tech Solutions*
+* **Microsoft Learn Student Ambassador (Beta Level)** – Sri Lanka
+* **Student Tech Community Contributor**
+* **Content Creator** (Tech Events, Sessions, Tutorials)
+
+---
+
+## 🏢 Company
+
+### Cyex Tech Solutions
+
+**Founder & Developer**
+Cyex Tech Solutions is a freelance-based tech initiative where I design and develop custom web solutions for individuals, startups, and small businesses. The focus is on **clean UI, scalable backend logic, and real-world usability**.
+
+🌐 Website: [https://cyextech.com](https://cyextech.com)
+
+---
+
+## 🧑‍💻 Technical Skills
+
+### Frontend Development
+
+* HTML5
+* CSS3 (Pure CSS, Responsive Design)
+* JavaScript (Vanilla JS)
+* React (basic to intermediate)
+
+### Backend Development
+
+* PHP
+* Node.js (basic)
+* RESTful API concepts
+
+### Databases
+
+* MySQL
+* MongoDB (basic)
+
+### Full-Stack & Tools
+
+* MERN Stack (MongoDB, Express, React, Node)
+* Git & GitHub
+* GitHub Pages
+* Vercel Deployment
+* JSON & API Integration
+
+### AI & Emerging Technologies
+
+* Google Gemini API
+* AI Chatbot Integration
+* Semantic Search Concepts
+* Computer Vision (Driver Monitoring – basic)
+
+---
+
+## 🚀 Major Projects
+
+### 1. ERP System for Printing Shop (Real-World Project)
+
+A complete **ERP system** currently used in a real printing business.
+
+**Features:**
+
+* Inventory Management
+* HR Management
+* Invoice & Billing System
+* Cash Flow Management
+* Reporting Dashboard
+* Planned AI-based Stock Prediction
+* Advanced Purchasing System (Packets, Boxes, Bundles)
+
+**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
+
+---
+
+### 2. MediTrack – Healthcare Web Application
+
+A healthcare-focused platform designed to simplify access to medication and medical information.
+
+**Features:**
+
+* Medicine Availability Tracker
+* AI-powered Health Chatbot
+* Medication Scheduling & Reminders
+* Knowledge Sharing Blog & Forum
+
+**Tech Stack:** Web Technologies + AI Integration
+
+---
+
+### 3. Online Ticket Booking System
+
+A modern ticket booking system with real-time validation and QR-based check-in.
+
+**Features:**
+
+* User Registration & Ticket Booking
+* Bank Receipt Upload
+* Auto-generated E-Tickets
+* Dynamic QR Codes
+* WhatsApp Ticket Delivery
+* QR Scanner Dashboard (Live Stats)
+
+---
+
+### 4. Realtime Esports Betting System (Commercial Project)
+
+My **first commercial-level project** developed for an Esports gaming company.
+
+**Features:**
+
+* Tournament Management
+* Game & Player Management
+* Sponsor Betting System
+* Real-time Updates
+
+---
+
+### 5. Library Management System (MERN Stack)
+
+A complete library system with authentication and responsive UI.
+
+**Features:**
+
+* User Authentication
+* Input Validation
+* Clean & Commented Code
+* Mobile Responsive Design
+
+---
+
+## 🧩 Mini Projects & Tools
+
+* **HappyNewYear** – Personalized New Year Greeting App (Python)
+* **Find House – Sport Meet** – House locator tool (Script + Web)
+* **Vesak Card Generator** – Custom greeting card web app
+* **Transistor Solver** – Electronics problem-solving tool
+* **Printer Counter** – Page count & finance tracking app
+
+🔗 GitHub: [https://github.com/induwarauthsara](https://github.com/induwarauthsara)
+
+---
+
+## 🤖 AI & Research-Oriented Projects
+
+### Real-Time Driver Monitoring System
+
+Developed for an **AI & Web Development Competition**.
+
+**Capabilities:**
+
+* Drowsiness Detection
+* Mobile Phone Usage Detection
+* Over-Speed Detection
+* Camera-Based Monitoring
+
+---
+
+### WhatsApp AI Legal Assistant
+
+* Answers legal questions
+* Uses semantic search on law notes
+* Integrated with Gemini API
+
+---
+
+## 🎤 Events, Sessions & Community Work
+
+* Host – *Introduction to Git & GitHub* (Microsoft Learn Student Ambassadors Event)
+* Speaker & Organizer for student-focused tech sessions
+* Runs a **WhatsApp Tech Channel** sharing events & opportunities
+* Maintains a **YouTube Channel** for tech content
+* Actively supports juniors with projects & learning guidance
+
+---
+
+## 🌐 Online Presence
+
+* 🌍 Portfolio: [https://induwara.dev](https://induwara.dev)
+* 📝 Tech Blog: [https://blog.induwara.dev](https://blog.induwara.dev)
+* 💻 GitHub: [https://github.com/induwarauthsara](https://github.com/induwarauthsara)
+* 🌐 Company Site: [https://cyextech.com](https://cyextech.com)
+
+---
+
+## 🏆 Achievements & Recognition
+
+* Microsoft Learn Student Ambassador (Beta)
+* Real-world ERP & Commercial Project Experience
+* Active Student Community Leader
+* Recognized for practical, production-level systems
+
+---
+
+## 🎯 Interests
+
+* Full-Stack Development
+* Artificial Intelligence
+* System Design
+* Open-Source Contribution
+* Teaching & Knowledge Sharing
+* Building Scalable Real-World Systems
+
+---
+
+## 📌 Career Objective
+
+To become a highly skilled **Software Engineer / Full-Stack Developer** who builds impactful systems at scale, contributes to the tech community, and continuously explores AI-driven solutions to real-world problems.
+
+---
+
+*“Build real things. Solve real problems. Share what you learn.”*
